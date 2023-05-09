@@ -1,0 +1,127 @@
+html {
+    background-color: #cdd0d9;
+
+}
+.list {
+ 
+    background-color: #317731;
+    height: 1000px;
+    width: 800px;
+    margin: 20px auto;
+
+    border-radius: 5px;
+    border-color:  #47ad4c3f;
+    border-width: 5px;
+    border-style: solid;
+
+}
+.had {
+    
+    background-color: #dee5e88f;
+    height: 330px;
+    width: 706px;
+    margin: 10px;
+    padding:10px 32px;
+
+    box-shadow: 0px 0px 15px #4ead47;
+
+    border-color:#47ad4a7c;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    
+}
+.had h1 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px auto 35px auto;
+    width: 200px;
+
+    font-family: candara;
+    font-size: 35px;
+    color: #477947b4;
+}
+.description {
+    height: 200px;
+    width: 350px;
+    padding-left: 300px;
+    margin: 20px 0px 0px 20px;
+    
+
+    text-align: center;
+    font-family: candara;
+    font-size: 31px;
+    color: #d3d7d9;
+}
+.had img {
+    margin-top: -220px;
+    border-color:#c0cacf97;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+
+.info {
+    background-color: #dee5e88f;
+    height: 470px;
+    width: 706px;
+    margin: 10px;
+    padding:10px 32px;
+
+    box-shadow: 0px 0px 15px #47ad4f;
+
+    border-color:#47ad477c;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+   
+}
+.description_2 {
+    height: 200px;
+    width: 380px;
+    margin: 10px 0px 0px 20px;
+    
+
+    text-align: center;
+    font-family: candara;
+    font-size: 31px;
+    color: #d3d7d9;
+}
+.img {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.img_2 {
+    
+    margin: -400px 0px 140px 450px;
+}
+
+.basement {
+    background-color: #dee5e88f;
+    height: 65px;
+    width: 706px;
+    margin: -15px 10px 10px 10px;
+    padding:10px 32px;
+
+    box-shadow: 0px 0px 15px #47ad51;
+
+    border-color:#4cad477c;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.img_3 {
+    margin-top: 5px;
+}
+.down {
+    margin-left: 20px;
+    margin-top: 5px;
+
+    text-align: left;
+    font-family: candara;
+    font-weight: bold;
+    font-size: 20px;
+    color: #2e3032;
+}
